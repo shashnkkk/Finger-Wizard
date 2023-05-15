@@ -1,6 +1,4 @@
-## [Demo Video](https://www.youtube.com/watch?v=vfPoTQ22kvE)
 
-![Demo Gif](https://s8.gifyu.com/images/Signify.gif)
 
 ## What our app does:
 
