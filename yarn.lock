@@ -1609,7 +1609,7 @@
   "version" "2.1.2"
 
 "autocorrect@^1.2.0":
-  "integrity" "sha1-+I7O0R087KYWs3bpPWGl58A0srs="
+  "integrity" "sha512-+RbvUM8d/V1e8xSOEW3oi0kWFe+T5WD+hGyqPaVKngEZW7vTFGSJOy+vvEa9PZeqIq5U9WHd9gX7hlsFKonaRg=="
   "resolved" "https://registry.npmjs.org/autocorrect/-/autocorrect-1.2.0.tgz"
   "version" "1.2.0"
   dependencies:
